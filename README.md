@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ascendDeveloper
 - 👀 I’m interested in Web technologies and Artificial Intelligence
-- 🌱 I’m currently learning a Full Stack Bootcamp
 - 💞️ I’m looking to collaborate on Artificial Intelligence Proyects or little startups and maybe help in electronic
 - 📫 How to reach me on Discord, my Discord id is Eduardo Felix#3831 
 
